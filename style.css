@@ -1,0 +1,29 @@
+.table table th {
+    border: 1px solid black;
+}
+
+.table table td {
+    border: 1px solid black;
+}
+/*Style Keseluruhan */
+
+*,html,body {
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper{
+    text-align: center;
+    width: 100%;
+}
+.logo{
+    font-size: 50px;
+    padding-left: 2em;
+    font-weight: 800;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #06283D;
+}
